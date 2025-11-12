@@ -18,9 +18,7 @@ public :
     void set_age(int age);
     string get_name();
     int get_age();
-class Mammal :: class Animal {string furcolour};
-class Bird ::  class Animal {float wingSpan};
-class Reptile :: public Animal{bool isVenomous};
+
 
 
 };
