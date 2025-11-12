@@ -18,6 +18,7 @@ public :
     int get_current();
     void addAnimal(Animal* a);
     void displayAnimals();
+};
 
 
 
