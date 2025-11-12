@@ -3,7 +3,7 @@
 
 #include "Animal.h"
 
-//define mammal class here
+class Mammal :: public Animal{string furcolour};
 
 
 
