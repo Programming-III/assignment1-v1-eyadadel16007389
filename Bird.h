@@ -3,7 +3,8 @@
 
 #include "Animal.h"
 
-//define class bird here 
+
+class Bird :: public Animal{float wingSpan};
 
 
 
