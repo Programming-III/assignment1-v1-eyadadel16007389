@@ -1,4 +1,2 @@
 # you must include your TutorialNumber_studentID_studentName on the same format
-Eyad Elmoataz Adel
-16007389
-T03
+T03_16007389_EyadElmoataz
